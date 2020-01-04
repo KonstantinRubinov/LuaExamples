@@ -1,3 +1,6 @@
+--Lua tutorial https://www.tutorialspoint.com/lua/lua_file_io.htm
+
+
 -- http://lua-users.org/wiki/FileInputOutput
 
 -- see if the file exists

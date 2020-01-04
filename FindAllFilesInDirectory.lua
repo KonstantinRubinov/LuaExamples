@@ -1,3 +1,5 @@
+--Lua tutorial https://www.tutorialspoint.com/lua/lua_file_io.htm
+
 --http://www.wellho.net/resources/ex.php4?item=u112/dlisting
 
 function scandir(dirname)

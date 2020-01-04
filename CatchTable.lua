@@ -1,3 +1,5 @@
+--Lua tutorial https://www.tutorialspoint.com/lua/lua_file_io.htm
+
 local myTable = {}
 
 function getFromTable(key)
